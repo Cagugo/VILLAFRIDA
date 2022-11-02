@@ -109,7 +109,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url(media/christian-hogue-wvdc2osHNTA-unsplash.jpg);
+    ,url(./media/christian-hogue-wvdc2osHNTA-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -130,7 +130,7 @@ header a:hover{
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url(media/general.jpg);
+    ,url(./media/general.jpg);
 }
 
 #Nosotros .container{
@@ -173,7 +173,7 @@ display: none;
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url(media/almuerzo.jpg);
+    ,url(./media/almuerzo.jpg);
     
 }
 
@@ -183,7 +183,7 @@ display: none;
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url(media/cena.jpg);
+    ,url(./media/cena.jpg);
 
 }
 
@@ -193,7 +193,7 @@ display: none;
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url(media/portada.jpg);
+    ,url(./media/portada.jpg);
 
 }
 
@@ -213,7 +213,7 @@ display: none;
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url(media/ordering.jpg);
+    ,url(./media/ordering.jpg);
 }
 
 #ordenar .container{
@@ -241,7 +241,7 @@ display: none;
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
     )
-    ,url(media/fondocontact.jpg);
+    ,url(./media/fondocontact.jpg);
 }
 
 footer{
